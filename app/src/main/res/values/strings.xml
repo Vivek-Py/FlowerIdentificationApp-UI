@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flower Identification App</string>
+    <string name="bg">Background Image</string>
+    <string name="bar">Button Bar</string>
+    <string name="howtouse">how to use</string>
+    <string name="rules">rules</string>
+    <string name="ipoints">i points</string>
+    <string name="flowerss">flower in the ui</string>
+</resources>
